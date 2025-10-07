@@ -1,4 +1,4 @@
-name: Android CI
+name: Android CI TEST
 
 on:
   workflow_dispatch:
